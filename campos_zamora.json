@@ -1,0 +1,87 @@
+{
+ "formato": "campos_zamora",
+ "version": 1,
+ "nota": "Nombre real del campo de cada equipo. Lo leen Fútbol Manager Zamora y Fútbol Arcade Zamora. 'id' es el id del equipo en datos_zamora.json; 'equipo' es solo orientativo.",
+ "campos": [
+  {
+   "id": 0,
+   "equipo": "CDF Benavente",
+   "campo": "Estadio Luciano Rubio"
+  },
+  {
+   "id": 1,
+   "equipo": "CD Coreses",
+   "campo": "El Prado"
+  },
+  {
+   "id": 2,
+   "equipo": "Fresno de la Ribera CF",
+   "campo": "CM Fresno de la Ribera"
+  },
+  {
+   "id": 3,
+   "equipo": "CD Bovedana",
+   "campo": "CM Bóveda de Toro"
+  },
+  {
+   "id": 4,
+   "equipo": "CD Atlético Sanabria",
+   "campo": "CM El Teso"
+  },
+  {
+   "id": 5,
+   "equipo": "Racing Club Benavente",
+   "campo": "Alonso Pimentel"
+  },
+  {
+   "id": 6,
+   "equipo": "Santa Croya CF",
+   "campo": "CM Santa Croya de Tera"
+  },
+  {
+   "id": 7,
+   "equipo": "CD San Cristóbal",
+   "campo": "Los Tejares"
+  },
+  {
+   "id": 8,
+   "equipo": "Atlético Zamora",
+   "campo": "Anexo Ruta de la Plata"
+  },
+  {
+   "id": 9,
+   "equipo": "CD Ciudad de Zamora",
+   "campo": "Anexo Ruta de la Plata"
+  },
+  {
+   "id": 10,
+   "equipo": "Sporting Zamora CF",
+   "campo": "Valorio"
+  },
+  {
+   "id": 11,
+   "equipo": "Sporting Zamora B CF",
+   "campo": "Valorio"
+  },
+  {
+   "id": 12,
+   "equipo": "CD Villalpando",
+   "campo": "PM Antonio Allende «Gatero»"
+  },
+  {
+   "id": 13,
+   "equipo": "UD Toresana",
+   "campo": "V Centenario"
+  },
+  {
+   "id": 14,
+   "equipo": "Sanabria CF",
+   "campo": "CM El Pinar"
+  },
+  {
+   "id": 15,
+   "equipo": "CD Coomonte",
+   "campo": "El Sequedal"
+  }
+ ]
+}
